@@ -1,0 +1,7 @@
+{
+  "name": "footbally-api",
+  "private": true,
+  "dependencies": {
+    "resend": "^3.5.0"
+  }
+}
