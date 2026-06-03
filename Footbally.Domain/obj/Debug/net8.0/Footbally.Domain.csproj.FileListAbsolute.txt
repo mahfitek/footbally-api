@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\bin\Debug\net8.0\Footbally.Domain.deps.json
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\bin\Debug\net8.0\Footbally.Domain.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\bin\Debug\net8.0\Footbally.Domain.pdb
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\Footbally.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\Footbally.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\Footbally.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\Footbally.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\Footbally.Domain.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\refint\Footbally.Domain.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\Footbally.Domain.pdb
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Domain\obj\Debug\net8.0\ref\Footbally.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0LnZKJRnO8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Footbally.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

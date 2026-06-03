@@ -1,0 +1,862 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\aimoderationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\aimoderationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\aiscoutreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\aiscoutreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\aitrustscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\aitrustscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\aiplayerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\aiplayerrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\aijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\aijob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iaijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iaijobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iaiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iaiprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iaiagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\imatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\services\\anthroppicsupportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\services\\anthroppicsupportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\team\\teamprofileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\team\\teamprofileresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\team\\upsertteamprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\team\\upsertteamprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\team\\teamresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\team\\teamresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\teamprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\teamprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\repositories\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\match\\updateapplicationstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\match\\updateapplicationstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\match\\matchapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\match\\matchapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\controllers\\playerprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\controllers\\playerprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\repositories\\playerprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\repositories\\playerprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iplayerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iplayerprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\player\\upsertplayerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\player\\upsertplayerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\player\\playerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\player\\playerprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\team\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\team\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\data\\footballydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\data\\footballydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.api\\controllers\\supportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}|Footbally.API\\Footbally.API.csproj|solutionrelative:footbally.api\\controllers\\supportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.infrastructure\\data\\footballydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955CF166-52FE-4561-8763-3E45E6EA3C43}|Footbally.Infrastructure\\Footbally.Infrastructure.csproj|solutionrelative:footbally.infrastructure\\data\\footballydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\matchapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\matchapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\supportresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\supportresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\supportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\supportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\match\\matchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\match\\matchresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\match\\creatematchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\match\\creatematchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\dtos\\user\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\dtos\\user\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\isupportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\isupportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA2D206-8A1D-456D-9788-FC749A874AB6}|Footbally.Application\\Footbally.Application.csproj|solutionrelative:footbally.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|c:\\users\\admin\\desktop\\footbally-backend\\footbally.domain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60927C7D-63E8-4369-B91A-32400E56AB83}|Footbally.Domain\\Footbally.Domain.csproj|solutionrelative:footbally.domain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiModerationResult.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiModerationResult.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\AiModerationResult.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiModerationResult.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\AiModerationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:18:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiScoutReport.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiScoutReport.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\AiScoutReport.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiScoutReport.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\AiScoutReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:18:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AiTrustScore.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiTrustScore.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\AiTrustScore.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiTrustScore.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\AiTrustScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:18:14.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiPlayerRating.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiPlayerRating.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\AiPlayerRating.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiPlayerRating.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\AiPlayerRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:18:09.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AiJob.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiJob.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\AiJob.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\AiJob.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\AiJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:18:00.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAiAgent.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAiAgent.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IAiAgent.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAiAgent.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IAiAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:14:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAiJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAiJobRepository.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IAiJobRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAiJobRepository.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IAiJobRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:14:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAiProvider.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAiProvider.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IAiProvider.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAiProvider.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IAiProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:14:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMatchService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IMatchService.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IMatchService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IMatchService.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IMatchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:36:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Repositories\\MatchRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\MatchRepository.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Repositories\\MatchRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:41:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Footbally.API\\Controllers\\MatchesController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:44:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\ITeamService.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\ITeamService.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\ITeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:25:44.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:26:00.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Footbally.API\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:26:15.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnthroppicSupportService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Services\\AnthroppicSupportService.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Services\\AnthroppicSupportService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Services\\AnthroppicSupportService.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Services\\AnthroppicSupportService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:41:32.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Footbally.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:44:39.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpsertTeamProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\UpsertTeamProfileDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Team\\UpsertTeamProfileDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\UpsertTeamProfileDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Team\\UpsertTeamProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:24:58.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamProfileResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\TeamProfileResponseDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Team\\TeamProfileResponseDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\TeamProfileResponseDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Team\\TeamProfileResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:25:14.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateApplicationStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\UpdateApplicationStatusDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Match\\UpdateApplicationStatusDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\UpdateApplicationStatusDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Match\\UpdateApplicationStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:38:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MatchApplicationDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\MatchApplicationDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Match\\MatchApplicationDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\MatchApplicationDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Match\\MatchApplicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:37:57.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\PlayerProfilesController.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Controllers\\PlayerProfilesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\PlayerProfilesController.cs",
+              "RelativeToolTip": "Footbally.API\\Controllers\\PlayerProfilesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:25:15.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\TeamProfile.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\TeamProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\TeamProfile.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\TeamProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:32:41.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TeamResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\TeamResponseDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Team\\TeamResponseDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\TeamResponseDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Team\\TeamResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:25:29.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlayerProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\PlayerProfileRepository.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Repositories\\PlayerProfileRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\PlayerProfileRepository.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Repositories\\PlayerProfileRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:24:58.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPlayerProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IPlayerProfileService.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IPlayerProfileService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IPlayerProfileService.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IPlayerProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:24:44.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpsertPlayerProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Player\\UpsertPlayerProfileDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Player\\UpsertPlayerProfileDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Player\\UpsertPlayerProfileDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Player\\UpsertPlayerProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:24:20.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PlayerProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Player\\PlayerProfileDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Player\\PlayerProfileDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Player\\PlayerProfileDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Player\\PlayerProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T08:24:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateTeamDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\CreateTeamDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Team\\CreateTeamDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Team\\CreateTeamDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Team\\CreateTeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:25:19.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Program.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Program.cs",
+              "RelativeToolTip": "Footbally.API\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:52:34.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:12:59.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Footbally.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:10:35.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:09:51.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:10:06.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:09:31.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FootballyDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Data\\FootballyDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Data\\FootballyDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Data\\FootballyDbContextFactory.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Data\\FootballyDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:53:36.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Footbally.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\appsettings.Development.json",
+              "RelativeToolTip": "Footbally.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T21:52:23.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SupportController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\SupportController.cs",
+              "RelativeDocumentMoniker": "Footbally.API\\Controllers\\SupportController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.API\\Controllers\\SupportController.cs",
+              "RelativeToolTip": "Footbally.API\\Controllers\\SupportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:44:17.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:40:58.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FootballyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Data\\FootballyDbContext.cs",
+              "RelativeDocumentMoniker": "Footbally.Infrastructure\\Data\\FootballyDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Infrastructure\\Data\\FootballyDbContext.cs",
+              "RelativeToolTip": "Footbally.Infrastructure\\Data\\FootballyDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:40:38.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SupportResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\SupportResponseDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\SupportResponseDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\SupportResponseDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\SupportResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:38:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SupportRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\SupportRequestDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\SupportRequestDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\SupportRequestDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\SupportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:38:02.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MatchResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\MatchResponseDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Match\\MatchResponseDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\MatchResponseDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Match\\MatchResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:37:48.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateMatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\CreateMatchDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\Match\\CreateMatchDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\Match\\CreateMatchDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\Match\\CreateMatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:37:36.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\User\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\User\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\User\\UserResponseDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\User\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:37:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\User\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\DTOs\\User\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\DTOs\\User\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Footbally.Application\\DTOs\\User\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:36:54.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ISupportService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\ISupportService.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\ISupportService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\ISupportService.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\ISupportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:36:11.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MatchApplication.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\MatchApplication.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\MatchApplication.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\MatchApplication.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\MatchApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:32:51.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Footbally.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Footbally.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:35:49.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\Match.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\Match.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:32:45.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:32:34.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PlayerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\PlayerProfile.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\PlayerProfile.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\PlayerProfile.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\PlayerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:32:30.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Footbally.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Footbally-Backend\\Footbally.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Footbally.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T21:29:50.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

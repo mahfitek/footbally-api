@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footbally.API", "Footbally.API\Footbally.API.csproj", "{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footbally.Application", "Footbally.Application\Footbally.Application.csproj", "{3AA2D206-8A1D-456D-9788-FC749A874AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footbally.Domain", "Footbally.Domain\Footbally.Domain.csproj", "{60927C7D-63E8-4369-B91A-32400E56AB83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Footbally.Infrastructure", "Footbally.Infrastructure\Footbally.Infrastructure.csproj", "{955CF166-52FE-4561-8763-3E45E6EA3C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB33F482-4CCE-476C-9D65-0C7CCEEFA392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA2D206-8A1D-456D-9788-FC749A874AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA2D206-8A1D-456D-9788-FC749A874AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA2D206-8A1D-456D-9788-FC749A874AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA2D206-8A1D-456D-9788-FC749A874AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60927C7D-63E8-4369-B91A-32400E56AB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60927C7D-63E8-4369-B91A-32400E56AB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60927C7D-63E8-4369-B91A-32400E56AB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60927C7D-63E8-4369-B91A-32400E56AB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955CF166-52FE-4561-8763-3E45E6EA3C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955CF166-52FE-4561-8763-3E45E6EA3C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955CF166-52FE-4561-8763-3E45E6EA3C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955CF166-52FE-4561-8763-3E45E6EA3C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

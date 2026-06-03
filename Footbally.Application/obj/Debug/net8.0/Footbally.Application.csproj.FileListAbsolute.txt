@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\bin\Debug\net8.0\Footbally.Application.deps.json
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\bin\Debug\net8.0\Footbally.Application.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\bin\Debug\net8.0\Footbally.Application.pdb
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\bin\Debug\net8.0\Footbally.Domain.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\bin\Debug\net8.0\Footbally.Domain.pdb
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Football.E5CD6BBF.Up2Date
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\refint\Footbally.Application.dll
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\Footbally.Application.pdb
+C:\Users\admin\Desktop\Footbally-Backend\Footbally.Application\obj\Debug\net8.0\ref\Footbally.Application.dll
