@@ -115,6 +115,7 @@ builder.Services.AddCors(options =>
             "https://getfootbally.com",
             "https://www.getfootbally.com",
             "https://footbally-lime.vercel.app",
+            "https://admin.getfootbally.com",
             builder.Configuration["Cors:ProductionOrigin"] ?? "https://getfootbally.com"
         )
         .AllowAnyHeader()
