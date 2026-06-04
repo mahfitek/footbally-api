@@ -135,6 +135,11 @@ public class MatchRepository : IMatchService
         };
     }
 
+    public async Task<int> GetCountAsync()
+    {
+        return await _context.Matches.CountAsync();
+    }
+
     private static MatchResponseDto MapToDto(Match match) => new()
     {
         Id = match.Id,

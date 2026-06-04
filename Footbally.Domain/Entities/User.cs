@@ -13,4 +13,5 @@ public class User
     public PlayerProfile? PlayerProfile { get; set; }
     public ICollection<Team> OwnedTeams { get; set; } = new List<Team>();
     public ICollection<MatchApplication> MatchApplications { get; set; } = new List<MatchApplication>();
+    public ICollection<Subscription> Subscriptions { get; set; } = new List<Subscription>();
 }

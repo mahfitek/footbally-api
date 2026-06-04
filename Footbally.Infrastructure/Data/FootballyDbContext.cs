@@ -16,6 +16,7 @@ public class FootballyDbContext : DbContext
     public DbSet<TeamProfile> TeamProfiles => Set<TeamProfile>();
     public DbSet<Match> Matches => Set<Match>();
     public DbSet<MatchApplication> MatchApplications => Set<MatchApplication>();
+    public DbSet<Subscription> Subscriptions => Set<Subscription>();
 
     // AI Tables
     public DbSet<AiJob> AiJobs => Set<AiJob>();
@@ -101,6 +102,20 @@ public class FootballyDbContext : DbContext
                 .HasForeignKey(e => e.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
             entity.Property(e => e.Status).HasMaxLength(20).HasDefaultValue("Pending");
+        });
+
+        // Subscription
+        modelBuilder.Entity<Subscription>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+            entity.HasOne(e => e.User)
+                .WithMany(u => u.Subscriptions)
+                .HasForeignKey(e => e.UserId)
+                .OnDelete(DeleteBehavior.Cascade);
+            entity.Property(e => e.PlanType).HasMaxLength(50).IsRequired();
+            entity.Property(e => e.Status).HasMaxLength(20).HasDefaultValue("Active");
+            entity.HasIndex(e => e.UserId);
+            entity.HasIndex(e => e.Status);
         });
 
         // AiJob

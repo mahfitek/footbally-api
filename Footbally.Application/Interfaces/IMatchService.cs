@@ -11,4 +11,5 @@ public interface IMatchService
     Task<MatchApplicationDto> ApplyAsync(int matchId, int userId);
     Task<List<MatchApplicationDto>> GetApplicationsAsync(int matchId);
     Task<MatchApplicationDto?> UpdateApplicationStatusAsync(int matchId, int applicationId, string status);
+    Task<int> GetCountAsync();
 }

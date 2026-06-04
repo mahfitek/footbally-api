@@ -85,4 +85,12 @@ public class MatchesController : ControllerBase
         if (result == null) return NotFound(new { message = "Başvuru bulunamadı." });
         return Ok(result);
     }
+
+    [HttpGet("admin/count")]
+    [Authorize(Roles = "Admin")]
+    public async Task<ActionResult<object>> GetAdminCount()
+    {
+        var count = await _matchService.GetCountAsync();
+        return Ok(new { count });
+    }
 }

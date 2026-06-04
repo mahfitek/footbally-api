@@ -1,5 +1,6 @@
 ﻿using Footbally.Application.DTOs.User;
 using Footbally.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Footbally.API.Controllers;
@@ -40,5 +41,31 @@ public class UsersController : ControllerBase
         var result = await _userService.DeleteAsync(id);
         if (!result) return NotFound(new { message = "Kullanıcı bulunamadı." });
         return NoContent();
+    }
+
+    [HttpGet("admin/list")]
+    [Authorize(Roles = "Admin")]
+    public async Task<ActionResult<List<UserResponseDto>>> GetAdminList()
+    {
+        var users = await _userService.GetAllAsync();
+        return Ok(users);
+    }
+
+    [HttpPut("admin/{id}/status")]
+    [Authorize(Roles = "Admin")]
+    public async Task<IActionResult> SetStatus(int id, [FromBody] SetUserStatusDto dto)
+    {
+        var result = await _userService.SetActiveAsync(id, dto.IsActive);
+        if (!result) return NotFound(new { message = "Kullanıcı bulunamadı." });
+        return NoContent();
+    }
+
+    [HttpGet("{id}/profile")]
+    [Authorize(Roles = "Admin")]
+    public async Task<ActionResult<AdminUserDetailDto>> GetDetail(int id)
+    {
+        var detail = await _userService.GetDetailAsync(id);
+        if (detail == null) return NotFound(new { message = "Kullanıcı bulunamadı." });
+        return Ok(detail);
     }
 }

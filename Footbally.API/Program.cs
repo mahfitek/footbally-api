@@ -51,6 +51,7 @@ builder.Services.AddScoped<IUserService, UserRepository>();
 builder.Services.AddScoped<IMatchService, MatchRepository>();
 builder.Services.AddScoped<ITeamService, TeamRepository>();
 builder.Services.AddScoped<IPlayerProfileService, PlayerProfileRepository>();
+builder.Services.AddScoped<ISubscriptionService, SubscriptionRepository>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddHttpClient<ISupportService, AnthropicSupportService>();
 
